@@ -121,7 +121,7 @@ For each platforms GSwap allocations. The entirety of team funds, as well as hal
 |-|-|-|
 |Total|100 000 000|-|
 |Foundation|30 000 000|30%|
-|Team|15 000 000|25%|
+|Team|15 000 000|15%|
 |Advisors|5 000 000|5%|
 |Initial Dex Offering|35 000 000|35%|
 |Air Drop|5 000 000|5%|
@@ -133,7 +133,7 @@ For each platforms GSwap allocations. The entirety of team funds, as well as hal
 |-|-|-|
 |Total|100 000 000|-|
 |Foundation|30 000 000|30%|
-|Team|15 000 000|25%|
+|Team|15 000 000|15%|
 |Advisors|5 000 000|5%|
 |Initial Dex Offering|40 000 000|40%|
 |Community|10 000 000|10%|
