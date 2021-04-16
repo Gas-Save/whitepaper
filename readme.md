@@ -24,9 +24,11 @@ https://www.GasSave.org
 **[WIP] Documentation:** 
 https://www.GasSave.org/docs
 
+**Telegram:**
+https://t.me/gassave
+
 **Code:** 
 https://www.github.com/Gas-Save
-
 
 # Gas Save Protocol
 
